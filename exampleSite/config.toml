@@ -2,9 +2,9 @@ baseURL = "https://www.adraw.art"
 disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
-paginate = "5"
+paginate = "10"
 theme = "persian"
-title = "Persian"
+title = "Anh Draws"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
