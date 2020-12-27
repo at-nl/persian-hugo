@@ -1,6 +1,5 @@
 ---
-title: I'm a Freelance Interactive Art Director Based In France. Focusing Accross
-  Branding And Identity
+title: I'm a Freelance Digital Concept Artist.
 image: images/me.jpg
 description: This is meta description.
 
