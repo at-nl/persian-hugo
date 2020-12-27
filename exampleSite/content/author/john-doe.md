@@ -3,7 +3,7 @@ title: Anh Tran
 image: ''
 email: contact@anhtran.nl
 social:
-- icon: ''
+- icon: artstation
   link: https://triggerholder.artstation.com/
 
 ---
